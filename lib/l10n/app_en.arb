@@ -1,0 +1,16 @@
+{
+    "welcomeBack": "Welcome back",
+    "@welcomeBack": {
+      "description": "Welcome message for opening the app after the first time"
+    },
+    "welcome": "Welcome {username}",
+    "@welcome": {
+        "description": "Welcome message for the user",
+        "placeholders": {
+            "username": {
+                "description": "The name of the user",
+                "example": "John"
+            }
+        }
+    }
+}
